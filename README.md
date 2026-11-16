@@ -1,5 +1,3 @@
-# Modular-Fabricator
-A fabricator that can do both additive and subtractive manufacturing on your desktop. How interesting!
 # Modular fabricator: CNC and 3D printer on one control hub
 
 A desktop machine platform built as separate modules that share one control and connection hub: a CNC router and an enclosed CoreXY 3D printer today, with room for further modules later.
@@ -46,5 +44,3 @@ The 3D-printer module, mainly the carriage, plus the electrical bill of material
 ## Not here yet
 
 The SolidWorks assemblies are larger than GitHub's browser upload limit. They will be added as STEP exports or as a release archive.
-
-
